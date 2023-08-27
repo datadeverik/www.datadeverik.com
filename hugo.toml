@@ -1,0 +1,4 @@
+baseURL = 'https://www.datadeverik.com'
+languageCode = 'en-us'
+title = 'Data Dev Erik'
+theme = 'hugo-xterm'
