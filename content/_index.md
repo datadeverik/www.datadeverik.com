@@ -6,4 +6,4 @@ title: "Data Dev Erik"
 
 Follow me to learn various data and software concepts by watching me on [YouTube](https://www.youtube.com/channel/UCkWlNrTU1a8t7lKCkqesn9A) and [Twitch](https://www.twitch.tv/datadeverik).
 
-Keep up to date with my efforts by subscribing to my [newsletter](https://datadevnotes.beehiiv.com/subscribe).
+Keep up to date with my efforts by reading my [blog](https://blog.datadeverik.com).
