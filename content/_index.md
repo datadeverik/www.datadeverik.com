@@ -10,4 +10,4 @@ Keep up to date with my efforts by reading [my blog](https://blog.datadeverik.co
 
 I am also the "Captain" of [Moline Harbor Digital Solutions](https://www.molineharbor.com).
 
-You may contact me on Discord as 'datadeverik' or by gmail as [datadeverik](mailto:datadeverik@gmail.com).
+You may contact me on Discord as "datadeverik" or by gmail as [datadeverik](mailto:datadeverik@gmail.com).
