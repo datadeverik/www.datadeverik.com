@@ -8,4 +8,4 @@ Follow me to learn various data, software, and AWS concepts by watching me on [Y
 
 Keep up to date with my efforts by reading [my blog](https://blog.datadeverik.com/newsletter).
 
-You may contact me on discord as `datadeverik` or by gmail as [datadeverik](mailto:datadeverik@gmail.com).
+You may contact me on Discord as 'datadeverik' or by gmail as [datadeverik](mailto:datadeverik@gmail.com).
